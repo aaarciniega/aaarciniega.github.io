@@ -1,6 +1,6 @@
 ##### a personal website.
-[Welcome](#welcome)
-[Content](#content)
+[Welcome](#Welcome)
+[Content](#Content)
 # Welcome *(Bienvenidos)*
 This is the home page for aaarciniega.
 *(Esta es la página principal de aaarciniega.)*
