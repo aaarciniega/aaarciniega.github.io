@@ -1,12 +1,11 @@
 ##### a personal website.
 [Welcome](#Welcome)
 [Content](#Content)
-# Welcome *(Bienvenidos)*
-This is the home page for aaarciniega.
-*(Esta es la página principal de aaarciniega.)*
-# Content *(Contenido)*
+# Welcome
+This is the starting page for aaarciniega created in [GitHub Pages](https://pages.github.com/). From here you may navigate to other pages on this personal website. 
+# Content
 Here is the list of static pages linked to this site:
-*(Esta es la lista de enlaces de páginas estáticas:)*
+
 
 - [Test](Test.html)
-  - This is a test page *(Esta es una página de prueba)*
+  - This is a test page
