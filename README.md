@@ -8,5 +8,5 @@ This is the home page for aaarciniega.
 Here is the list of static pages linked to this site:
 *(Esta es la lista de enlaces de páginas estáticas:)*
 
-- [Test](test.html)
+- [Test](Test.html)
   - This is a test page *(Esta es una página de prueba)*
