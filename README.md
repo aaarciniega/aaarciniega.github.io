@@ -13,6 +13,6 @@ Here is the list of static pages linked to this site:
 - [background](background.html)
   - This is another test page in TW
  
-- [TWC Test](empty_212_ptw.html)
+- [TWC Test](empty_2102_ptw.html)
   - Test of PTW
 
